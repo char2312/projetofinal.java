@@ -1,7 +1,7 @@
 package com.escola.servico;
 
 import com.escola.model.Funcionario;
-import com.escola.model.TipoFuncionario;
+
 import java.util.ArrayList;
 import java.util.List;
 
